@@ -1,0 +1,8 @@
+Logo: //*[@id="nava"]
+TopMenu: //*[contains(text(), 'Home')]
+Banner: //*[@class="carousel-inner"]
+Produk: //*[@id="tbodyid"]/div[1]/div/div/h4/a
+TombolLoginHomePage: //*[@id="login2"]
+UserName: //*[@id="loginusername"]
+Password: //*[@id="loginpassword"]
+TombolLoginPopUp: //*[@type="button" and contains(text(), 'Log in')]
